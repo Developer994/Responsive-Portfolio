@@ -168,11 +168,12 @@ form {
     width: 750px;
     height: 550px;
   }
-
+  .containerContentProfile {
+    padding-left: 150px;
+  }
   #containerArticle2 {
     width: 600px;
     height: 800px;
-    padding-left: 150px;
   }
   #containerArticle3 {
     width: 850px;
@@ -214,11 +215,14 @@ form {
     width: 500px;
     height: 600px;
   }
+  .containerContentProfile {
+    padding-left: 200px;
+  }
   #containerArticle2 {
     width: 500px;
     height: 800px;
-    padding-left: 150px;
   }
+
   #containerArticle3 {
     width: 650px;
     height: 600px;
@@ -248,23 +252,32 @@ form {
   ul li {
     display: block;
     text-align: center;
+    text-decoration: none;
   }
-
+  li {
+    list-style-type: none;
+  }
   #containerArticle1 {
     width: 400px;
     height: 960px;
   }
-
+  .containerContentContact {
+    width: 500px;
+    height: 600px;
+  }
+  .containerContentProfile {
+    padding-left: 100px;
+  }
   .containerContent {
     width: 300px;
     height: 600px;
   }
   #containerArticle2 {
-    width: 400px;
+    width: 300px;
     height: 800px;
   }
   #containerArticle3 {
-    width: 400px;
+    width: 375px;
     height: 470px;
   }
   .imageProfile {
